@@ -52,7 +52,7 @@ Table you created in the Microsoft Dataverse in Lab 2.
     
    ![](images/pp1002.png)     
    
-1. Click on **Publish and Save** to save the app. The classic designer of the app will be opened in a new browser tab.   
+1. Click on **Save and Publish** to save the app. The classic designer of the app will be opened in a new browser tab.   
    
 1. Click on the Edit button next to **Site Map**. This will launch the designer that will let you modify the App navigation.
 
@@ -138,7 +138,7 @@ Table you created in the Microsoft Dataverse in Lab 2.
 
       ![](images/pp208.png)
 
-1. Enter **Device Procurement Process (1)** for Flow Name, select **Device Order (2)** for Table, and click on **Create (3)**. 
+1. Enter **Device Procurement Process (1)** for Display Name, select **Device Order (2)** for Table, and click on **Create (3)**. 
  
       ![](images/pp209.png)
 
@@ -193,7 +193,6 @@ Table you created in the Microsoft Dataverse in Lab 2.
 1. Select the **Components** tab, drag **Data Step** to the canvas and place is under the **Estimated Ship Date** step.
 
    ![](images/Module3/BusinessProcessFlow16.png)  
-
 
 1. Select **Supplier Order ID** for Data Column, check the **Required** field and click **Apply**. Remember from before this
     Column isn’t required, but by checking this here, we will require it to be filled out before they can advance to the
