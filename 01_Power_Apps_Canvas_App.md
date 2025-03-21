@@ -43,8 +43,6 @@ In this lab, you will complete the following tasks:
 1. In the home page, click on the search bar and search for canvas app and select **Canvas app from blank** from the dropdown.
 
       ![](images/pp8.png)
-   
-1. Click on **Create**.
  
 1. Input **Device Ordering App (1)** in the App Name field, Select **Tablet (2)** for the Format and click on **Create (3)**.
 
@@ -156,7 +154,7 @@ In this task, you will save an initial version of the app. It is a good practice
      - Change your app name
      - Customize the app icon – choose a background color and icon
 
-      ![](images/pp21.png)
+       ![](images/pp21.png)
 
 6. Select the **Display** tab to view the available screen orientation and aspect ratio settings. For this app, we will leave
     it at the default setting of Landscape with 16:9 aspect ratio.
@@ -182,7 +180,7 @@ overview of the devices available.
 
       ![](images/pp24.png)
    
-3. Expand **Connectors** , then click **Show all connectors**.
+3. Expand **Connectors** , then click **See all connectors**.
 
       ![](images/pp25.png)
 
@@ -433,7 +431,7 @@ enter additional information and submit the request.
 
 10. Position it to the left of the compare button.
 
-   ![](images/Module1/devicegallery51.png) 
+    ![](images/Module1/devicegallery51.png) 
 
 11. Change the **Text** property to "Clear Selection"
 
@@ -453,7 +451,7 @@ enter additional information and submit the request.
    
 16. You should navigate to the new empty screen. Close the preview.
 
-   ![](images/Module1/devicegallery56.png) 
+      ![](images/Module1/devicegallery56.png) 
    
 17. Go to the **Main Screen** in the tree view.
 
@@ -473,11 +471,11 @@ enter additional information and submit the request.
    
 23. Copy **Device Gallery** from the **Main Screen** and paste it in the **Compare Screen**.
 
-26. Move the gallery to the left edge of the screen. Align the top of the gallery to be just under the header banner. Use the right drag handle to reduce the width of the gallery and create space for a data entry form on the right of the screen. You will insert a Form control here and configure it in a subsequent lab.
+24. Move the gallery to the left edge of the screen. Align the top of the gallery to be just under the header banner. Use the right drag handle to reduce the width of the gallery and create space for a data entry form on the right of the screen. You will insert a Form control here and configure it in a subsequent lab.
    
-27. Rename this gallery to **Compare List Gallery**.
+25. Rename this gallery to **Compare List Gallery**.
 
-   ![](images/Module1/devicegallery62.png) 
+    ![](images/Module1/devicegallery62.png) 
 
 ### Task 2: Configure the gallery
 
