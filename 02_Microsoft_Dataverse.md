@@ -225,9 +225,9 @@ Order table to provision. Begin these steps once it has finished.
    - Minimum Value: **0**
    - Maximum value: **5000**
 
-   ![](./images/Module2/m2s21.png)
+     ![](./images/Module2/m2s21.png)
 
-   ![](./images/Module2/m2s22.png)
+     ![](./images/Module2/m2s22.png)
 
 5. Click on **New Column** again.
 
@@ -320,7 +320,6 @@ In this task, you will create a **Business rule** that will set the Estimated De
     > **_Note:_** _You may need to scroll down to the bottom of all scroll bars to see the Apply button. You must click Apply after any
 change to the properties otherwise they will revert to the prior value. The Business Rule (Text View) will automatically update
 after you hit apply when you are done modifying the rule._
-
     
       ![](./images/Module2/image44.png)
 
@@ -332,7 +331,7 @@ after you hit apply when you are done modifying the rule._
 
       ![](./images/Module2/image46.png)
 
-8. Enter **Set Estimated Ship Date** for **Display Name**, select **Estimated Ship Date** for **Column**, **Formula** for **Type**, **Approved Date** for **Column**, **+** for **Operator**, **Value** for **Type** , **14** for **Days**, and click on **Apply**.
+8. Enter **Set Estimated Ship Date** for **Display Name**, select **Estimated Ship Date** for **Column**, **Formula** for **Type**, **Approved Date** for **Field**, **+** for **Operator**, **Value** for **Type** , **14** for **Days**, and click on **Apply**.
 
       ![](images/Module2/pp3001.png)
 
@@ -418,7 +417,6 @@ dragging the field to the desired placement.
     d. Comments
     e. Requested By
     f. Request Date
-
 
 10. Move the form control **Form1** to the right of the screen and resize it using the drag handles such that it fits in the
     empty space. See picture on the right. Make sure there is enough space below the form to add a Submit button.
