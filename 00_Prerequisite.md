@@ -35,21 +35,23 @@ and provision the database instance.
 
     * Azure Username/Email: <inject key="AzureAdUserEmail"></inject> 
     * Azure Password: <inject key="AzureAdUserPassword"></inject>
-      
-1. In the Admin center, select **Environments** and click **+New**.
 
-   ![](images/pp1.png)
+1. On the Power Platform admin center page, click the toggle button to experience the new admin center.
+
+   ![](images/u1.png)
+      
+1. In the Admin center, select **Manage (1)** and click **+ New (2)**.
+
+   ![](images/u2.png)
    
-1. Provide the following details:
+1. Provide the following details and click on **Next (5)**
 
    - Name: **Contoso Test (1)**
    - Region: **United States (2)**
    - Type: **Trial (3)**
    - Add a Dataverse data store? Check the box to **Yes (4)**
 
-      ![](images/pp2.png)
-
-1. Click on **Next**.
+      ![](images/u3.png)
 
 1. Provide the following details and then click **Save (5)**:
 
@@ -59,11 +61,11 @@ and provision the database instance.
    - Click on **Security Group** and select **None** under Open Access and click on **Done**.
    - Check **Yes (4)** for **Deploy sample apps and data**
   
-      ![](images/pp3005.png)
+      ![](images/u4.png)
 
-      ![](images/pp3.png)
+      ![](images/u5.png)
 
-      ![](images/pp3002.png)
+      ![](images/u6.png)
       
    > **Note:** If  **Deploy sample apps and data** option is disabled for you, this is due to unpredicted behavior of Power Apps, follow the below steps to enable the option. 
     1. In the Admin center, select **Environments** and click **+New**.
